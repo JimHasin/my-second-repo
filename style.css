@@ -7,3 +7,10 @@ h1{
 
     color: tomato;
 }
+body{
+    margin: 50px;
+    background-image: linear-gradient(lavender, white);
+    font-size: larger;
+    font-weight: 500;
+    
+}
